@@ -1,2 +1,2 @@
 # Wine-Attributes
-This project was to make an insight for WINE dataset in kaggle
+This project was to make an insights for WINE dataset in kaggle
